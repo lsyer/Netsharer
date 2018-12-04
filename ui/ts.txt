@@ -1,0 +1,26 @@
+本机端口 local port
+映射IP map IP 
+映射端口 map port
+运 行 RUN
+停 止 STOP
+共享设置 setting
+端口映射 port map
+使用说明 guide
+关  于 about
+(&F)外网接口 (&F)external interface:
+(&E)外网 IP (&E)external  IP
+(&I)内网接口 (&I) internal interface:
+(&P)私  有  IP (&P)private  IP:
+(&N)内网网段 (&N)internal net:
+添      加 add
+全部删除 delete all
+添加映射 add map
+服务正在运行中\n是否立刻退出？ the service is using,if quit now()?
+(&Q)退  出 (&Q)Quit
+(&A)关  于 (&A)About
+(&S)显  示 (&S)Show
+(&H)隐  藏 (&H)Hide
+系统错误，不能继续运行。请与作者联系！ error,the soft cann't run,please communicate with the author!
+程序将在隐藏至系统托盘继续运行。若要退出程序，请右击托盘图标并选择<b>退出</b>菜单。 "
+                                    "<br>双击托盘图标将显示程序主界面。
+The program will continue run hiding in systray.If you want to quit,please right click systray icon and select "Quit"
